@@ -1,0 +1,74 @@
+{
+  "background_color": "#fff",
+  "description": "Webcam app for HSF",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icons/icon_x25.png",
+      "sizes": "25x25",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon_x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon_x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon_x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon_x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon_x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon_x155.png",
+      "sizes": "155x155",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon_x168.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon_x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon_x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon_x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon_x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en",
+  "name": "HSFCam",
+  "orientation": "any",
+  "short_name": "HSFCam",
+  "start_url": "index.html",
+  "theme_color": "#fff"
+}
